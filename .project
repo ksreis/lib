@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>MergeSort</name>
+=======
+	<name>BubbleSort</name>
+>>>>>>> branch 'master' of git@github.com:ksreis/lib.git
 	<comment></comment>
 	<projects>
 	</projects>
